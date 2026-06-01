@@ -710,11 +710,11 @@ function BCS:SetManaRegen(statFrame)
 	
 	-- Check if Brilliance Aura is active
 	local hasBrillianceAura = BCS:GetPlayerAuraTexture("Interface\\Icons\\Spell_Nature_Brilliance")
-	local hasBrillianceAuraTT = BCS:GetPlayerAuraValue("Regenerates 1% of your Mana every 10 sec.")
+	local hasBrillianceAuraTT = BCS:GetPlayerAuraValue("Regenerates 1% of your Mana every 5 sec.")
 	local maxMana = UnitManaMax("player")
 	local brillRegen = 0
 	local brillRegenPercent = 0.01 -- 1% mana
-	local brillRegenInterval = 10 -- 10 seconds
+	local brillRegenInterval = 5 -- 5 seconds (buffed from 10 seconds 6-1-2026 edit)
 	local brillRegentick = 0
 	local brillRegenmp5 = 0
 	local brillRegenText = ""
