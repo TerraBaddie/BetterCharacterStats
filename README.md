@@ -1,6 +1,9 @@
 BetterCharacterStats - a World of Warcraft (1.12.1) AddOn
 ===================================================
 
+##🔴 ⚠️ WARNING ⚠️ 🔴
+##USE LOKIY999's BCB it is more updated!!!
+https://github.com/lokiy999/BetterCharacterStats
 **THIS IS A FORK FOR THE VANILLA+ REALM!**
 
 ![preview](https://raw.githubusercontent.com/yutsuku/BetterCharacterStats/gh-pages/images/BetterCharacterStats.png)
