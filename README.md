@@ -8,6 +8,8 @@ https://github.com/lokiy999/BetterCharacterStats
 
 **THIS IS A FORK FOR THE VANILLA+ REALM!** OUTDATED!!!
 
+This one just has more mp5 / mpTICK semantics in it and Lokiy fixed it on his.
+
 ![preview](https://raw.githubusercontent.com/yutsuku/BetterCharacterStats/gh-pages/images/BetterCharacterStats.png)
 
 Installation:
